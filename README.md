@@ -1,4 +1,4 @@
-# Linux-Config-Files
+# Linux Config Files
 
 ## 1. VIM Config File (.vimrc)
 
