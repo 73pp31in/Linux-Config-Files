@@ -6,7 +6,7 @@
 VIM has several extension managers, but the one I like using is [Vundle](https://github.com/VundleVim/Vundle.vim). Think of it as pip for VIM. It makes installing and updating packages extremely easy.\
 To install, run the following command:
 ```
-sudo git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
 Now setup your vim using the config file given here:
